@@ -1,4 +1,4 @@
-# public-assets
+## Public assets
 In this repository you can find Zyro brand assets. 
 ## General info
 
